@@ -1,10 +1,12 @@
-### Hello, there! 👋
+# Hello, there! 👋 I'm **Julio L. Muller**.
 
-I am **Julio L. Muller** and we are one step closer to each other now.
-
-- 🔭 I’m currently working with frontend development, using React, Material UI, React Router & Redux Rematch 😎
-- 🌱 I’m currently learning Firebase and Zustand
-- 👯 I’m currently developing a personal project that will impact my family
-- 💬 Ask me about JavaScript stuff
+- 🔭 I’m currently working with frontend development, using Vite, React, Material UI, React Hook Form & Redux Rematch
+- 🌱 I’m currently learning [Firebase](https://firebase.google.com/) and it's realtime database 😎
+- 👯 I’m currently developing a personal fun project that will impact my family parties 🥳
+- 💬 Ask me about JavaScript || TypeScript stuff
 - 📫 Reach me on [Linkedin](https://linkedin.com/in/juliolmuller)
-- ⚡ Personal fact: I :heart: Star Wars
+- ⚡ Personal fact: I'm a big fan of Star Wars 💖
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliolmuller&count_private=true&show_icons=true&&theme=nightowl" alt="Julio's GitHub stats" />
+</div>
