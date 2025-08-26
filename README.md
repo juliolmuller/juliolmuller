@@ -1,6 +1,6 @@
 # Hello, there! 👋 I'm **Julio L. Muller**.
 
-- 🔭 I’m currently working with JS stack, using Vue at the frontend and Node, Express, MongoDB and NestJS at the backend
+- 🔭 I’m currently working on a challenging analysis of data on GCP BugQuery
 - 🌱 I’m currently studying backend technologies and architecture around Node.js environment 😎
 - 👯 I’m currently developing a personal fun project that will impact my family parties 🥳
 - 💬 Ask me about JavaScript || TypeScript stuff
