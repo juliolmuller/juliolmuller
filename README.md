@@ -34,5 +34,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliolmuller&theme=nightowl&custom_title=My%20GitHub%20Stats&count_private=true&show_icons=true&rank_icon=percentile" alt="Julio's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juliolmuller&theme=nightowl&custom_title=My%20GitHub%20Stats&count_private=true&show_icons=true" alt="Julio's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliolmuller&theme=nightowl&layout=compact&custom_title=My%20Favorite%20Languages&langs_count=6" alt="Julio's Favorite Languages" />
 </div>
