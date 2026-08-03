@@ -1,9 +1,9 @@
 # Hello, there! 👋 I'm **Julio L. Muller**.
 
-- 🔭 I’m currently working on a challenging analysis of data on GCP BugQuery
-- 🌱 I’m currently studying backend technologies and architecture around Node.js environment 😎
-- 👯 I’m currently developing a personal fun project that will impact my family parties 🥳
-- 💬 Ask me about JavaScript || TypeScript stuff
+- 🔭 I’m currently working on a challenging project designing an entity-agnostic platform at RD Station.
+- 🌱 I'm studying ways to improve my productivity using AI tools.
+- 👯 I’m currently porting a set of libraries ([personal project](https://github.com/LacusSolutions/br-utils)), originally written in JavaScript/TypeScript, to other programming languages, like PHP, Python, Ruby, Java, Kotlin, Go, Rust, etc. 😎 
+- 💬 Ask me about JavaScript || TypeScript stuff!
 - 📫 Reach me on [Linkedin](https://linkedin.com/in/juliolmuller)
 - ⚡ Personal fact: I'm a big fan of Star Wars 💖
 
@@ -34,6 +34,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliolmuller&theme=nightowl&custom_title=My%20GitHub%20Stats&count_private=true&show_icons=true" alt="Julio's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliolmuller&theme=nightowl&layout=compact&custom_title=My%20Favorite%20Languages&langs_count=8" alt="Julio's Favorite Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=juliolmuller&theme=nightowl&custom_title=My%20GitHub%20Stats&count_private=true&show_icons=true" alt="Julio's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=juliolmuller&theme=nightowl&layout=compact&custom_title=My%20Favorite%20Languages&langs_count=8" alt="Julio's Favorite Languages" />
 </div>
