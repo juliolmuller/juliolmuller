@@ -2,7 +2,7 @@
 
 - 🔭 I'm working on a project at RD Station, designing an entity-agnostic platform.
 - 🌱 I'm studying agentic software development workflows.
-- 👯 I'm porting a set of libraries ([personal project](https://github.com/LacusSolutions/br-utils)), originally written in JavaScript/TypeScript, to PHP, Python, Ruby, Java, Kotlin, Go, Rust and other languages. 😎
+- 👯 I'm building my personal website to showcase my portfolio. [Come visit!](https://juliolmuller.com)
 - 💬 Ask me about JavaScript or TypeScript.
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/juliolmuller).
 - ⚡ Personal fact: I'm a big fan of Star Wars 💖
