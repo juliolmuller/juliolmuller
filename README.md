@@ -1,10 +1,10 @@
-# Hello, there! 👋 I'm **Julio L. Muller**.
+# Hello, there! 👋 I'm Julio L. Muller.
 
-- 🔭 I’m currently working on a challenging project designing an entity-agnostic platform at RD Station.
-- 🌱 I'm studying ways to improve my productivity using AI tools.
-- 👯 I’m currently porting a set of libraries ([personal project](https://github.com/LacusSolutions/br-utils)), originally written in JavaScript/TypeScript, to other programming languages, like PHP, Python, Ruby, Java, Kotlin, Go, Rust, etc. 😎 
-- 💬 Ask me about JavaScript || TypeScript stuff!
-- 📫 Reach me on [Linkedin](https://linkedin.com/in/juliolmuller)
+- 🔭 I'm working on a project at RD Station, designing an entity-agnostic platform.
+- 🌱 I'm studying ways to improve my productivity with AI tools.
+- 👯 I'm porting a set of libraries ([personal project](https://github.com/LacusSolutions/br-utils)), originally written in JavaScript/TypeScript, to PHP, Python, Ruby, Java, Kotlin, Go, Rust and other languages. 😎
+- 💬 Ask me about JavaScript or TypeScript.
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/juliolmuller).
 - ⚡ Personal fact: I'm a big fan of Star Wars 💖
 
 <br />
