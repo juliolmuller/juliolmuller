@@ -15,19 +15,27 @@
   <img alt="JavaScript" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="Bun.js" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" />
   <img alt="Node.js" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Claude" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" />
+  <img alt="Claude Code" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claudecode/claudecode-original.svg" />
+  <img alt="Cursor" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" />
+  <img alt="OpenCode" height="26px" src="https://cdn.simpleicons.org/opencode/808080" />
+  <img alt="Lovable" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lovable/lovable-original.svg" />
   <img alt="React" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Next.js" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img alt="Vue" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img alt="Nuxt.js" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img alt="TailWind CSS" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="AWS" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img alt="GCP" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img alt="Vercel" height="26px" src="https://cdn.simpleicons.org/vercel/808080" />
+  <img alt="OpenRouter" height="26px" src="https://cdn.simpleicons.org/openrouter" />
+  <img alt="Typeless" height="26px" src="https://www.typeless.com/favicon.ico" />
+  <img alt="Grammarly" height="26px" src="https://cdn.simpleicons.org/grammarly" />
   <img alt="Rust" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
   <img alt="Go" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img alt="HTML5" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Sass" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt="Visual Studio Code" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="PostgreSQL" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Firebase" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img alt="HTML5" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="Git" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" height="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 </div>
