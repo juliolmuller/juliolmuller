@@ -2,8 +2,9 @@
 
 - 🔭 I'm working on a project at RD Station, designing an entity-agnostic platform.
 - 🌱 I'm studying agentic software development workflows.
+- 🚀 I'm excited to be working in an era with so many new opportunities thanks to AI.
 - 👯 I'm building my personal website to showcase my portfolio. [Come visit!](https://juliolmuller.com)
-- 💬 Ask me about JavaScript or TypeScript.
+- 💬 Ask me about frontend, backend and AI.
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/juliolmuller).
 - ⚡ Personal fact: I'm a big fan of Star Wars 💖
 
